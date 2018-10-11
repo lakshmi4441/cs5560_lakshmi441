@@ -1,0 +1,428 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+24 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/CoreNLP.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/NGRAM$$anonfun$main$1.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/NGRAM$.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/NGRAM.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$1.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$2.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$3.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$4.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$5.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$6.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$7.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$main$3.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$1.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$1.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$2.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$3.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$4.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$5.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$.class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V.class
+binary dependencies:
+12 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> /Users/lakshmikorrapati/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.9.1.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> /Users/lakshmikorrapati/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.1.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.3.1.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.1.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.3.1.jar
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> /Users/lakshmikorrapati/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> /Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+24 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> CoreNLP
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> NGRAM
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> NGRAM$
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> NGRAM$$anonfun$main$1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$3
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$4
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$5
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$6
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$7
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$main$1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$main$2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF$$anonfun$main$3
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V$
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V$$anonfun$1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V$$anonfun$main$1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V$$anonfun$main$2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V$$anonfun$main$3
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V$$anonfun$main$4
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V$$anonfun$main$5
+used names:
+248 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> <init>
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Any
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> AnyRef
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Array
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> ArrayOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> B
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Char
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> ClassTag
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Function1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Int
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Iterator
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> NGRAM
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Nothing
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Object
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Predef
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> ScalaRunTime
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> String
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> StringOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> T
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> U
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> Unit
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> _$3
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> _$4
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> _$7
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> a
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> apply
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> arrayClass
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> augmentString
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> f
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> foreach
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> getNGrams
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> materializeClassTag
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> mkString
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> n
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> ngrams
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> package
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> println
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> refArrayOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> scala
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> sentence
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> sliding
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> split
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> toArray
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> words
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> +
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> ->
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> <init>
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> A
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Any
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> AnyRef
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Array
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> ArrayOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> ArrowAssoc
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> B
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> B1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Boolean
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Broadcast
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> CharSequence
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> ClassTag
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> CoreNLP
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> D
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Double
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Function1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> HashMap
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> HashingTF
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> IDF
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> IDFModel
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Int
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Iterable
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> K
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> List
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Nothing
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Object
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Ordering
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Predef
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> RDD
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Seq
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> SparkConf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> SparkContext
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> String
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> StringOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> T
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> T1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> T2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TF_IDF
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> TraversableOnce
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Tuple2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> U
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Unit
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> Vector
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> _$3
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> _$7
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> _1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> _2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> abs
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> apache
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> apply
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> augmentString
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> broadcast
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> cache
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> collect
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> collection
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> dd
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> dd1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> distinct
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> documentData
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> documents
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> documentseq
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> f
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> feature
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> ff
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> fit
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> flatMap
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> foreach
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> h
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> hashingTF
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> hm
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> i
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> idf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> immutable
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> indexOf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> indices
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> input
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> map
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> mapp
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> materializeClassTag
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> math
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> mllib
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> org
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> package
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> println
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> qual$1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> refArrayOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> replace
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> returnLemma
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> sc
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> scala
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> setAppName
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> setMaster
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> sortBy
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> spark
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> sparkConf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> split
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> splitString
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> take
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> tf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> tfidf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> tfidfData
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> tfidfindex
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> tfidfvalues
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> toDouble
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> toList
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> toSeq
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> toString
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> transform
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> value
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> values
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> wholeTextFiles
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> x$3
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> x$4
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> x$5
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> zip
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> +
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> <init>
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> <repeated>
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Any
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> AnyRef
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Array
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> ArrayOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Boolean
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Class
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> ClassTag
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Double
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> File
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> FilterMonadic
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Float
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Function1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Int
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Iterable
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Map
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> MatchError
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Nothing
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Object
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Predef
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> RDD
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> S
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Seq
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> SparkConf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> SparkContext
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> String
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> StringContext
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> T
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Tuple2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> U
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Unit
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> W2V
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Word2Vec
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> Word2VecModel
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> _$7
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> _1
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> _2
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> apache
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> apply
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> cosineSimilarity
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> exists
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> f
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> feature
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> findSynonyms
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> fit
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> foreach
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> getVectors
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> input
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> io
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> java
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> length
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> line
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> load
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> map
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> materializeClassTag
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> mllib
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> model
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> modelFolder
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> ne
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> org
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> package
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> println
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> refArrayOps
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> s
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> sameModel
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> save
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> sc
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> scala
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> set
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> setAppName
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> setMaster
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> setVectorSize
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> spark
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> sparkConf
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> split
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> synonym
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> synonyms
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> textFile
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> toSeq
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> unchecked
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> withFilter
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> word2vec
+product stamps:
+24 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/CoreNLP.class -> lastModified(1537475061000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/NGRAM$$anonfun$main$1.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/NGRAM$.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/NGRAM.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$1.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$2.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$3.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$4.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$5.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$6.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$7.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$$anonfun$main$3.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF$.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/TF_IDF.class -> lastModified(1537477364000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$1.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$1.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$2.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$3.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$4.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$$anonfun$main$5.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V$.class -> lastModified(1537475060000)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/target/scala-2.11/classes/W2V.class -> lastModified(1537475060000)
+source stamps:
+4 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> hash(0c99cf09b464b369271d3b880b558b4a80bee3ab)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> hash(bd1284d9279e2bb769671ea3b1b529f2d333c18a)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> hash(7145211d844acdbfc3be98bc34a9973a85b77d65)
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> hash(57a611e72c4a8e97ce1af21330c254ae5279982b)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1530951661000)
+/Users/lakshmikorrapati/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.9.1.jar -> lastModified(1519878746000)
+/Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.1.jar -> lastModified(1527888556000)
+/Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.3.1.jar -> lastModified(1527888378000)
+/Users/lakshmikorrapati/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/lakshmikorrapati/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.9.1.jar -> edu.stanford.nlp.simple.Document
+/Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.1.jar -> org.apache.spark.SparkConf$
+/Users/lakshmikorrapati/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.3.1.jar -> org.apache.spark.mllib.feature.HashingTF$
+/Users/lakshmikorrapati/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Int
+internal apis:
+4 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrJ+JbQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAKc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwSAAVdXQABm5vdGlmeXNxAH4ADBnoQSB0AAtyZXR1cm5MZW1tYXNxAH4ADPhUdRV0AAR3YWl0c3EAfgAM943S9XQABmVxdWFsc3NxAH4ADOYx7jh0AAlub3RpZnlBbGxzcQB+AAxAhOZAdAAGPGluaXQ+c3EAfgAMfjvw6XQACHRvU3RyaW5nc3EAfgAMmTGnsnQACGdldENsYXNzc3EAfgAMwViKiHQAB0NvcmVOTFBzcQB+AAw+/RM1dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAreHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AB91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AQ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgArTAAJaW5oZXJpdGVkcQB+ACtMAAdwYXJlbnRzcQB+ACt4cQB+AEhzcQB+AEN1cQB+ACYAAAAAc3EAfgBDdXEAfgAmAAAAAHNxAH4AQ3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AR3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AR3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AYHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AYXNxAH4AKHEAfgA1cQB+ADdxAH4AOXEAfgAfcQB+ADt+cQB+ADx0AAZNb2R1bGV1cQB+AEAAAAAAc3EAfgBDcQB+AElzcQB+AENzcQB+AEtzcQB+AEN1cQB+ACYAAAAAc3EAfgBDdXEAfgAmAAAAAHNxAH4AQ3VxAH4AUgAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfinYdF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2xha3NobWlrb3JyYXBhdGkvRG93bmxvYWRzL1NwYXJrX1RGSURGX1cyVi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUDJnPCbRks2knHTuIC1WLSoC+46s=
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwn8NinwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdcLBGXQABm5vdGlmeXNxAH4ADLNtbb10AAR3YWl0c3EAfgAMmKIcgHQADSRhc0luc3RhbmNlT2ZzcQB+AAxasyEhdAAGZXF1YWxzc3EAfgAMQhYWinQADGFzSW5zdGFuY2VPZnNxAH4ADE12e8B0AAxzeW5jaHJvbml6ZWRzcQB+AAwqD2DMdAAJZ2V0TkdyYW1zc3EAfgAM3S/2bHQABU5HUkFNc3EAfgAMiuMaA3QADSRpc0luc3RhbmNlT2ZzcQB+AAzN2mfqdAAEbWFpbnNxAH4ADI3zvJ50AAlub3RpZnlBbGxzcQB+AAxr8hzpdAAMaXNJbnN0YW5jZU9mc3EAfgAMBQ+ymXQAAj09c3EAfgAMElGqJ3QABWNsb25lc3EAfgAMNC991XQACHRvU3RyaW5nc3EAfgAMn6okzHQAAiE9c3EAfgAM2pj/D3QACGdldENsYXNzc3EAfgAM2/O2V3QAAm5lc3EAfgAMSXCc5nQAAmVxc3EAfgAMWNo/LXQAAiMjc3EAfgAM0bSYcXQACGZpbmFsaXplc3EAfgAMn8B8gnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAddXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBac3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AX3NxAH4AWnVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AIXVxAH4AUgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBedAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AenVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFV0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF5zcQB+AG10AAVBcnJheXEAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG10AAZTdHJpbmdzcQB+AHFzcQB+AHR1cQB+AHcAAAADc3EAfgB5dAAEamF2YXNxAH4AeXQABGxhbmdxAH4AfnNxAH4AWnVxAH4APgAAAABzcQB+AFp1cQB+AJIAAAACc3EAfgBtdAAGT2JqZWN0cQB+AJZzcQB+AG10AANBbnlxAH4Ac3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFl+Kdh0XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvbGFrc2htaWtvcnJhcGF0aS9Eb3dubG9hZHMvU3BhcmtfVEZJREZfVzJWL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS9EoTZJ54rt2lnHqOxtSny0zPBig==
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwW1bAcAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwV03Hh3QABm5vdGlmeXNxAH4ADOwdZt10AAR3YWl0c3EAfgAMzLJHu3QADSRhc0luc3RhbmNlT2ZzcQB+AAyCg512dAAGVEZfSURGc3EAfgAMigVu+HQABmVxdWFsc3NxAH4ADPEir550AAxhc0luc3RhbmNlT2ZzcQB+AAysYxqIdAAMc3luY2hyb25pemVkc3EAfgAMvwURE3QADSRpc0luc3RhbmNlT2ZzcQB+AAxGp8V1dAAEbWFpbnNxAH4ADKSBwuF0AAlub3RpZnlBbGxzcQB+AAwO8U3ydAAMaXNJbnN0YW5jZU9mc3EAfgAMU3DltnQAAj09c3EAfgAMrbdlbHQABWNsb25lc3EAfgAM7Tg8k3QACHRvU3RyaW5nc3EAfgAM8zVoN3QAAiE9c3EAfgAMc73wKnQACGdldENsYXNzc3EAfgAM+HtkFnQAAm5lc3EAfgAMXB0AYXQAAmVxc3EAfgAMAE7yM3QAAiMjc3EAfgAMFBBwQ3QACGZpbmFsaXplc3EAfgAMJAbKqnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFl+MrElnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvbGFrc2htaWtvcnJhcGF0aS9Eb3dubG9hZHMvU3BhcmtfVEZJREZfVzJWL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRxRSEdhErNv8O+mLw0qZc6hbd9ZQ==
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwD51Z6wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwBn5iLHQABm5vdGlmeXNxAH4ADHeYIyJ0AANXMlZzcQB+AAzz5/fedAAEd2FpdHNxAH4ADCTGX5l0AA0kYXNJbnN0YW5jZU9mc3EAfgAMpABCenQABmVxdWFsc3NxAH4ADDuX8j90AAxhc0luc3RhbmNlT2ZzcQB+AAwf4a5FdAAMc3luY2hyb25pemVkc3EAfgAM6TNEanQADSRpc0luc3RhbmNlT2ZzcQB+AAwBLApidAAEbWFpbnNxAH4ADBZuf+p0AAlub3RpZnlBbGxzcQB+AAz1RmA5dAAMaXNJbnN0YW5jZU9mc3EAfgAM3NWJWnQAAj09c3EAfgAMHsX7RXQABWNsb25lc3EAfgAMR/O9G3QACHRvU3RyaW5nc3EAfgAM7Q2emHQAAiE9c3EAfgAM1TcZsXQACGdldENsYXNzc3EAfgAMkFuaLHQAAm5lc3EAfgAMDZILC3QAAmVxc3EAfgAM6bc4u3QAAiMjc3EAfgAMINIW0nQACGZpbmFsaXplc3EAfgAMNG2XMHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFl+Kdh0XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvbGFrc2htaWtvcnJhcGF0aS9Eb3dubG9hZHMvU3BhcmtfVEZJREZfVzJWL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRXphHnLEqOl84a8hMwwlSuUnmYKw==
+external apis:
+0 items
+source infos:
+4 items
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/CoreNLP.java -> 
+AAAAAAAAAAA=
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/NGRAM.scala -> 
+AAAAAAAAAAA=
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/TF_IDF.scala -> 
+AAAAAAAAAAA=
+/Users/lakshmikorrapati/Downloads/Spark_TFIDF_W2V/src/main/scala/W2V.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfinYdF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9sYWtzaG1pa29ycmFwYXRpL0Rvd25sb2Fkcy9TcGFya19URklERl9XMlYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfi3PkJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9sYWtzaG1pa29ycmFwYXRpL0Rvd25sb2Fkcy9TcGFya19URklERl9XMlYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfi6noF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9sYWtzaG1pa29ycmFwYXRpL0Rvd25sb2Fkcy9TcGFya19URklERl9XMlYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfjKxJZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9sYWtzaG1pa29ycmFwYXRpL0Rvd25sb2Fkcy9TcGFya19URklERl9XMlYvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
